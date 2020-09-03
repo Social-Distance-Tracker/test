@@ -11,11 +11,9 @@ const char* password = "pswd";
 
 WiFiClient espClient;
 
-
-const char* mqtt_server = "MQTT URL or IP Address";
+const char* mqtt_server = "url.com/upload";
 
 PubSubClient client(espClient);
-
 
 const int bufferSize = 128;
 char inputBuffer[bufferSize];
