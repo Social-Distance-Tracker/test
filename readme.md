@@ -6,4 +6,4 @@ En la imagen del archivo supply.png se muestra un esquemático con dos integrado
 
 
 ## P2 
-Abra el archivo test.ino en su editor de preferencia, identifique cual es el funcionamiento de dicho código.
+Identifique cual es el funcionamiento del archivo test.ino 
